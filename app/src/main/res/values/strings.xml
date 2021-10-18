@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">imageButton</string>
+    <string name="image_button_clicked">Kstaj przycisk</string>
 </resources>
